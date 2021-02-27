@@ -2,7 +2,6 @@
 ![Badge](https://img.shields.io/badge/Project%20Status-On--Hold-yellow)
 ![Badge](https://img.shields.io/badge/Project%20Status-Active-brightgreen)
 # {{cookiecutter.project_name}}
-<hr>
 
 ## Project Summary
 * {{cookiecutter.description}}
