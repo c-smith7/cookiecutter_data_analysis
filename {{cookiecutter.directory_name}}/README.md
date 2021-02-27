@@ -2,7 +2,6 @@
 ![Badge](https://img.shields.io/badge/Project%20Status-On--Hold-yellow)
 ![Badge](https://img.shields.io/badge/Project%20Status-Active-brightgreen)
 # {{cookiecutter.project_name}}
-<hr>
 
 ## Project Summary
 * {{cookiecutter.description}}
@@ -30,7 +29,6 @@
 * Data Visualization
 * Predictive Modeling
 * etc.
-<hr>
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
@@ -56,7 +54,7 @@
 * [Notebook/Markdown/Slide Deck Title](link)
 * [Report](link)
 * [Blog Post](link)
-<hr>
+
 
 ## Getting Started
 
