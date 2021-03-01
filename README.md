@@ -1,7 +1,7 @@
 #  Cookiecutter for Data Analysis
 
 
-This template is based on @chris1610 cookiecutter template. Full details and walk-through of his cookiecutter can be found over at [**Practical Business Python:  Building a Repeatable Data Analysis Process with Jupyter Notebooks** ](http://pbpython.com/notebook-process.html).
+This template is based on @chris1610 cookiecutter template. Full details and walk-through of his cookiecutter can be found over at [**Practical Business Python:  Building a Repeatable Data Analysis Process with Jupyter Notebooks.** ](http://pbpython.com/notebook-process.html).
 
 I made some minor changes to the directory structure. I reformatted the notebooks in the analysis directory to personal preference. And that's pretty much it. 
 
