@@ -33,13 +33,16 @@ $ conda install cookiecutter
 
 ## Usage
 
-cd into the folder you want to *contain* the project you're starting, run the template as follows, answering the questions as relevant to your project:
+cd into the folder you want to save your project in, run the template as follows:
 
 ```bash
-$ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis        
+$ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis
+```
+Then fill in the following project details when prompted:
+```
 project_name [project_name]: data_analysis_project
-directory_name [data_journalism_project]: 
-description [More background on the project]:
+directory_name [data_analysis_project]: 
+description [background info on the project]:
 ```
 
 Now, in this example, the folder `data_analysis_project` will be created in the directory that you cd into. 
