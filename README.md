@@ -39,7 +39,7 @@ cd into the folder you want to save your project in, run the template as follows
 $ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis
 ```
 Then fill in the following project details when prompted:
-```
+```bash
 project_name [project_name]: data_analysis_project
 directory_name [data_analysis_project]: 
 description [background info on the project]:
