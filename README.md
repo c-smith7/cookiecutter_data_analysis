@@ -40,11 +40,16 @@ $ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis
 ```
 Then fill in the following project details when prompted:
 ```bash
-project_name [project_name]: data_analysis_project
-directory_name [data_analysis_project]: 
-description [background info on the project]:
+$ project_name [project_name]: data_analysis_project
+$ directory_name [data_analysis_project]: 
+$ description [background info on the project]:
 ```
 
 Now, in this example, the folder `data_analysis_project` will be created in the directory that you cd into. 
+
+Now that you have cookiecutter and this data analysis cookiecutter template downloaded on your machine, the next time you want to use this cookiecutter simply run:
+```bash
+$ cookiecutter cookiecutter_data_analysis
+```
 
 If you'd like to create your own cookiecutter and use this as a template, [cookiecutter docs](https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html) has a quick run through of how to make one. 
