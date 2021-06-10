@@ -41,11 +41,11 @@ $ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis
 Then fill in the following project details when prompted:
 ```bash
 $ project_name [project_name]: data_analysis_project
-$ directory_name [data_analysis_project]: 
-$ description [background info on the project]:
+$ directory_name [data_analysis_project]: Project 1
+$ description [background info on the project]: Brief project description..
 ```
 
-Now, in this example, the folder `data_analysis_project` will be created in the directory that you cd into. 
+In the above example, `data_analysis_project` will be the name of the project file used in the jupyter notebooks that are created, and `Project 1` will be the name of the directory created. The description will automatically populate within the jupyter notebooks aswell.  
 
 Now that you have cookiecutter and this data analysis cookiecutter template downloaded on your machine, the next time you want to use this cookiecutter simply run:
 ```bash
