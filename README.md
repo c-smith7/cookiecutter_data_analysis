@@ -46,7 +46,7 @@ In the terminal, you will then be prompted for your desired project name, direct
 
 ```bash
 project_name [project_name]: data_analysis_project
-directory_name [data_journalism_project]: project_file
+directory_name [data_analysis_project]: project_file
 description [More background on the project]: Brief project description..
 ```
 
@@ -62,7 +62,7 @@ If you'd like to create your own cookiecutter and use this as a template, [cooki
 
 ## Demo
 
-![First time use](demo_gifs/cookcutter_1.gif)
+![First time use](demo_gifs/test.gif)
 
 
 [![Twitter Badge](https://img.shields.io/badge/@cvsmith__7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/messages/compose?recipient_id=245625455)  
