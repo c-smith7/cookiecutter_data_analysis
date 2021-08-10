@@ -62,7 +62,7 @@ If you'd like to create your own cookiecutter and use this as a template, [cooki
 
 ## Demo
 
-![First time use](demo_gifs/test.gif)
+![First time use](demo_gifs/cookiecutter_1.gif)
 
 
 [![Twitter Badge](https://img.shields.io/badge/@cvsmith__7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/messages/compose?recipient_id=245625455)  
