@@ -36,16 +36,9 @@ $ conda install cookiecutter
 
 ## Usage
 
-<<<<<<< HEAD
 Next, `cd` into where you want to save you project file, and run the template as follows:
-||||||| 020b70f
-cd into the folder you want to *contain* the project you're starting, run the template as follows, answering the questions as relevant to your project:
-=======
-cd into the folder you want to save your project in, run the template as follows:
->>>>>>> 2382dfb4b2c9a84d71211ca9451d7318ba5d625b
 
 ```bash
-<<<<<<< HEAD
 $ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis        
 ```
 
@@ -55,29 +48,12 @@ In the terminal, you will then be prompted for your desired project name, direct
 project_name [project_name]: data_analysis_project
 directory_name [data_journalism_project]: project_file
 description [More background on the project]: Brief project description..
-||||||| 020b70f
-$ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis        
-project_name [project_name]: data_analysis_project
-directory_name [data_journalism_project]: 
-description [More background on the project]:
-=======
-$ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis
->>>>>>> 2382dfb4b2c9a84d71211ca9451d7318ba5d625b
-```
-Then fill in the following project details when prompted:
-```bash
-$ project_name [project_name]: data_analysis_project
-$ directory_name [data_analysis_project]: Project 1
-$ description [background info on the project]: Brief project description..
 ```
 
-In the above example, `data_analysis_project` will be the name of the project file used in the jupyter notebooks that are created, 
-and `Project 1` will be the name of the directory created. The description will automatically populate within the jupyter notebooks aswell.  
-
-<<<<<<< HEAD
 In the above example, `project_file` will be the name of the directory created. Also, the project name and description will automatically populate in the IPYNB notebooks.
 
 The next time you want to use this cookiecutter, simply run:
+
 ```bash
 $ cookiecutter cookiecutter_data_analysis
 ```
@@ -86,21 +62,8 @@ If you'd like to create your own cookiecutter and use this as a template, [cooki
 
 ## Demo
 
+![First time use](demo_gifs/cookcutter_1.gif)
 
-||||||| 020b70f
-Now, in this example, the folder `data_analysis_project` will be created in the directory that you cd into. 
-=======
-Now that you have cookiecutter and this data analysis cookiecutter template downloaded on your machine, the next time you want to use this cookiecutter simply run:
-```bash
-$ cookiecutter cookiecutter_data_analysis
-```
->>>>>>> 2382dfb4b2c9a84d71211ca9451d7318ba5d625b
 
-<<<<<<< HEAD
 [![Twitter Badge](https://img.shields.io/badge/@cvsmith__7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/messages/compose?recipient_id=245625455)  
 [![Gmail Badge](https://img.shields.io/badge/carlvsmith7-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlvsmith7@gmail.com)
-||||||| 020b70f
-If you'd like to create your own cookiecutter and use this as a template, [cookiecutter docs](https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html) has a quick run through of how to make one. 
-=======
-If you'd like to create your own cookiecutter and use this as a template, [cookiecutter docs](https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html) has a quick run through of how to make one. 
->>>>>>> 2382dfb4b2c9a84d71211ca9451d7318ba5d625b
