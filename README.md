@@ -36,7 +36,7 @@ $ conda install cookiecutter
 
 ## Usage
 
-Next, `cd` into where you want to save you project file, and run the template as follows:
+Next, `cd` into where you want to save your project file, and run the cookicutter as follows:
 
 ```bash
 $ cookiecutter https://github.com/c-smith7/cookiecutter_data_analysis        
@@ -52,18 +52,13 @@ description [More background on the project]: Brief project description..
 
 In the above example, `project_file` will be the name of the directory created. Also, the project name and description will automatically populate in the IPYNB notebooks.
 
-The next time you want to use this cookiecutter, simply run:
+Now that you have the cookiecutter template downloaded on your local machine, the next time you want to use it, simply run:
 
 ```bash
 $ cookiecutter cookiecutter_data_analysis
 ```
 
 If you'd like to create your own cookiecutter and use this as a template, [cookiecutter docs](https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html) has a quick run through of how to make one. 
-
-## Demo
-
-![First time use](https://github.com/c-smith7/cookiecutter_data_analysis/blob/main/demo_gifs/cookiecutter_1.gif)
-
 
 [![Twitter Badge](https://img.shields.io/badge/@cvsmith__7-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/messages/compose?recipient_id=245625455)  
 [![Gmail Badge](https://img.shields.io/badge/carlvsmith7-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlvsmith7@gmail.com)
